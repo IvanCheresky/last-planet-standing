@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SceneManager
+  - Planet
+  - PlanetHealth
+  - GameManager
+  - Ship
+  - Ammunition
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3183484905
+    locked: 0
+  - name: Planet
+    uniqueID: 3257612837
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Ship
+    uniqueID: 671364069
+    locked: 0
+  - name: Screen Effects
+    uniqueID: 3498561655
+    locked: 0
+  - name: ImprovementCavas
+    uniqueID: 1581241897
+    locked: 0
